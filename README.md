@@ -1,24 +1,16 @@
-# README
+## jumpstar-blogger2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The goal of this tutorial is create a simple blog system and learn the basics of Ruby on Rails including:
 
-Things you may want to cover:
+*Models, Views, and Controllers (MVC)
+*Data Structures & Relationships
+*Routing
+*Migrations
+*Views with forms, partials, and helpers
+*RESTful design
+*Adding gems for extra features
 
-* Ruby version
+The full description can be found here: <a href="http://tutorials.jumpstartlab.com/projects/blogger.html">JumpstarLab - Blogger2</a> 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Author - click on the link below to see the author's github    
+Github: <a href="https://github.com/thsvr">Thaís Vieira Azevedo</a>
