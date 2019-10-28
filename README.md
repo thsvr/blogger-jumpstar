@@ -2,7 +2,7 @@
 
 The goal of this tutorial is create a simple blog system and learn the basics of Ruby on Rails including:
 
-** Models, Views, and Controllers (MVC)
+* Models, Views, and Controllers (MVC)
 * Data Structures & Relationships
 * Routing
 * Migrations
